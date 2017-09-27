@@ -5,7 +5,8 @@ This is an in-progress project with web application development in Spring Hibern
 
 The page will be updated with details as the development progress with time.
 
-Team:
+# Team:
 
-Anamika - University of North Dakota's Department of Space Studies 
+Anamika - University of North Dakota's Department of Space Studies
+
 Prashant Singh - University of California, San Diego's Department of Computational Science, Mathematics & Engineering (CSME)
